@@ -61,6 +61,16 @@ Os arquivos gerados estarão no diretório dist/. Você pode usar esses arquivos
 
 Contribuições são bem-vindas!❤️💡
 
+
+## Stack utilizada
+
+<div> 
+  
+  <img align="inline_block" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="inline_block" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="inline_block" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
