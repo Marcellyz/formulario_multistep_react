@@ -5,6 +5,29 @@ Este é um projeto React.js criado utilizando o Vite, uma ferramenta de constru�
 ## 🔗 Link do Figma
 [![portfolio](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/YDWYMASiF6qDpky3wCnc5u/Form%C3%BAlario-Multistep?node-id=2-2&starting-point-node-id=2%3A2)
 
+## 📍Stack utilizada
+
+<div> 
+  
+  <img align="inline_block" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="inline_block" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="inline_block" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
+
+## 📦 Estrutura do Projeto
+````
+formulario_multistep_react/
+├── node_modules/                         # Dependências do projeto
+├── public/                               # Arquivos públicos, como ícones e manifestos
+│   └── vite.svg                          # Logotipo do Vite
+├── src/                                  # Código-fonte do aplicativo             
+│   ├── components/                       # Componentes do React
+│   ├── hooks/                            # Arquivo de hook
+│   └── ... (demais diretórios e arquivos)
+│   
+└── ... (demais diretórios e arquivos)
+````
+
 ##  📋 Pré-requisitos
 
 Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente:
@@ -47,7 +70,7 @@ npm run dev
 Abra o navegador e acesse http://localhost:5173/ (o porto pode variar). A aplicação será recarregada automaticamente sempre que houver mudanças nos arquivos do projeto.
 
 
-## Build
+## ⚙️ Build
 
 Para criar uma versão de produção otimizada do projeto, use o comando:
 
@@ -58,24 +81,9 @@ npm run build
 Os arquivos gerados estarão no diretório dist/. Você pode usar esses arquivos para hospedar a aplicação em um servidor web.
 
 ## 🖇️ Contribuição ❤️💡📝🤩
-
 Contribuições são bem-vindas!❤️💡
 
-
-## Stack utilizada
-
-<div> 
-  
-  <img align="inline_block" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="inline_block" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="inline_block" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Esse README pode ser ajustado de acordo com as necessidades específicas do seu projeto.
-
+---
+⌨️ com ❤️ por [Marcellyz](https://gist.github.com/Marcellyz) 😊
 
 
